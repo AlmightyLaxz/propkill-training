@@ -1,0 +1,6 @@
+"propkill"
+{
+	"base"		"sandbox"
+	"title"		"Propkill Training"
+	"menusystem"	"1"
+}
